@@ -1,2 +1,2 @@
-# bpt_telegram_api_PHP
- BPT creado y programado con la api oficial d etelegram sin librerias de composer
+# BOT_telegram_api_PHP
+ BOT creado y programado con la api oficial d etelegram sin librerias de composer
